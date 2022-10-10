@@ -1,0 +1,33 @@
+.organization_table {
+    border-collapse: collapse;
+}
+
+.organization_table tr {
+    border-top: 1px solid #1a202c;
+}
+
+.organization_table th {
+    padding: 10px;
+}
+
+.organization_table td {
+    padding: 10px;
+}
+
+* {
+    text-decoration: none;
+}
+
+.organization_table form {
+    margin: 0;
+    padding: 0;
+}
+
+.organization_table button {
+    cursor: pointer;
+    border: none;
+    background: white;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}

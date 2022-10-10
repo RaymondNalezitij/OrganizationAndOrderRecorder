@@ -1,0 +1,16 @@
+.product_list {
+    border-collapse: collapse;
+}
+
+.product_list tr {
+    border-top: 1px solid #1a202c;
+}
+
+.product_list td {
+    padding: 10px;
+}
+
+.table_description {
+    text-align: right;
+    border-left: 1px solid #1a202c;
+}

@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+
+.product_table {
+    border-collapse: collapse;
+}
+
+.product_table tr {
+    border-top: 1px solid #1a202c;
+}
+
+.product_table th {
+    padding: 10px;
+}
+
+.product_table td {
+    padding: 10px;
+}
+
+.product_table button {
+    cursor: pointer;
+    border: none;
+    background: white;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
